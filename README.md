@@ -1,6 +1,7 @@
 # bmicalculator
 
-A new Flutter project.
+A new Flutter project of BMI calculator. input_page.dart is only ui part there is no logic part implement bcq of some erro.
+in result page bmi is working . you can do practice with this code. many widgets are used so you can learn from here.
 
 ## Getting Started
 
